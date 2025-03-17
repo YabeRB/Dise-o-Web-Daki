@@ -1,6 +1,6 @@
 Proyecto ejecutado: Diseño Web a base de un mockup.
 
-En este proyecto se utilizo HTML, CSS y JavaScript para la realización del desarrolo frontend de manera sencilla.
+En este proyecto utilice HTML, CSS y JavaScript para la realización del desarrolo frontend de manera sencilla.
 
 Acceso al proyecto en linea: 
 
