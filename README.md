@@ -1,4 +1,4 @@
-Proyecto ejecutada: Diseño Web a base de un mockup
+Proyecto ejecutado: Diseño Web a base de un mockup
 En este proyecto se utilizo HTML, CSS y JavaScript para la realización del desarrolo frontend de manera sencilla
 Acceso al proyecto en linea: 
 https://yaberb.github.io/Dise-o-Web-Daki/
